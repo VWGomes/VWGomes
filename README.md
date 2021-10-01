@@ -23,7 +23,7 @@
 
 ## About me
 
-[![Github Badge](https://avatars.mds.yandex.net/i?id=958d6f1d18a5add8854a634552c594e6-4432920-images-thumbs&n=13)](https://github.com/VWGomes)
+[![Github Badge](https://images.sftcdn.net/images/t_app-logo-l,f_auto/p/94e49839-f272-4ff7-b5cb-08ed44d94829/4115365846/qtext-QText-logo.webp)](https://github.com/VWGomes)
 
 [![Linkedin Badge](https://cookingforbachelors.tv/images/icon_linkdein.png)
 
