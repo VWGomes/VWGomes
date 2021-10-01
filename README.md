@@ -25,7 +25,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/VWGomes)
 
-[![Linkedin Badge](http://s.glbimg.com/po/tt/f/original/2011/12/06/linkedin-para-android.jpg)](https://www.linkedin.com/in/victor-werneck-gomes-6014a918a/)
+[![Linkedin Badge](https://logospng.org/download/linkedin/logo-linkedin-icon-256.png)](https://www.linkedin.com/in/victor-werneck-gomes-6014a918a/)
 
 
 
