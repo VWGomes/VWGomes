@@ -23,9 +23,9 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/VWGomes)
+[![Github Badge](https://avatars.mds.yandex.net/i?id=958d6f1d18a5add8854a634552c594e6-4432920-images-thumbs&n=13)](https://github.com/VWGomes)
 
-[![Linkedin Badge](https://logospng.org/download/linkedin/logo-linkedin-icon-256.png)](https://www.linkedin.com/in/victor-werneck-gomes-6014a918a/)
+[![Linkedin Badge](https://cookingforbachelors.tv/images/icon_linkdein.png)
 
 
 
