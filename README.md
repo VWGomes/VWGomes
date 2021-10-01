@@ -15,7 +15,7 @@
 
 
  
-📫: ![Linkedin Badge](https://cookingforbachelors.tv/images/icon_linkdein.png)
+📫: ![Linkedin Badge](https://7cfe.congresoforestal.es/sites/all/modules/service_links/images/linkedin.png)
 
 
 
