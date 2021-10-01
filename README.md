@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @VWGomes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+
  # Welcome!
 
  
@@ -11,27 +7,21 @@
 
  
 
-:computer: I'm Front-End Developer!
+:computer: Análise e Desenvolvimento de Sistemas
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: 👀 I’m currently learning everything.
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
  
-
-## About me
-
-[![Github Badge](https://images.sftcdn.net/images/t_app-logo-l,f_auto/p/94e49839-f272-4ff7-b5cb-08ed44d94829/4115365846/qtext-QText-logo.webp)](https://github.com/VWGomes)
-
-![Linkedin Badge](https://cookingforbachelors.tv/images/icon_linkdein.png)
+📫: ![Linkedin Badge](https://cookingforbachelors.tv/images/icon_linkdein.png)
 
 
 
 - Thanks for visiting.
 
-- Enjoy it!! o/
 
 
 <!---
