@@ -3,7 +3,7 @@
 
  
 
-## I'm (SEU NOME)!
+## I'm Victor!
 
  
 
@@ -11,9 +11,8 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: 👀 I’m currently learning everything.
+:books: I’m currently learning C# / Python / Java / Web.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
 
  
 📫: ![Linkedin Badge](https://cookingforbachelors.tv/images/icon_linkdein.png)
