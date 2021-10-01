@@ -25,7 +25,7 @@
 
 [![Github Badge](https://images.sftcdn.net/images/t_app-logo-l,f_auto/p/94e49839-f272-4ff7-b5cb-08ed44d94829/4115365846/qtext-QText-logo.webp)](https://github.com/VWGomes)
 
-[![Linkedin Badge](https://cookingforbachelors.tv/images/icon_linkdein.png)
+![Linkedin Badge](https://cookingforbachelors.tv/images/icon_linkdein.png)
 
 
 
