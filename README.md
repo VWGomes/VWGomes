@@ -11,7 +11,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning C# / Java / Python / WEB.
+:books: I’m currently learning C# / Java / Python.
 
 
  
