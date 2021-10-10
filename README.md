@@ -7,7 +7,7 @@
 
  
 
-:computer: Análise e Desenvolvimento de Sistemas
+:computer: Análise e Desenvolvimento de Sistemas.
 
 :house_with_garden: I’m from Brazil.
 
