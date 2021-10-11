@@ -9,9 +9,9 @@
 
 :computer: Análise e Desenvolvimento de Sistemas.
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Belo Horizonte/MG.
 
-:books: I’m currently learning C# / HTML / Java / Python.
+:books: Learning C# / HTML / Java / Python.
 
 
  
