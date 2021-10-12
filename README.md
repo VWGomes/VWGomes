@@ -9,7 +9,7 @@
 
 :computer: Análise e Desenvolvimento de Sistemas.
 
-:house_with_garden: Belo Horizonte/MG.
+:house_with_garden: Belo Horizonte-MG.
 
 :books: Learning C# / HTML / Java / Python.
 
