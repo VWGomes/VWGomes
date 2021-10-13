@@ -11,7 +11,7 @@
 
 :house_with_garden: Belo Horizonte-MG.
 
-:books: Learning C# / HTML / Java / Python.
+:books: Learning C# / Java / Python.
 
 
  
