@@ -27,7 +27,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VWGomes&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 
 
-- Thanks for visiting.
 
 
 
