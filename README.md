@@ -3,8 +3,6 @@
 
  
 
-## I'm Victor!
-
  
 
 :computer: Análise e Desenvolvimento de Sistemas.
