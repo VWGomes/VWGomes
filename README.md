@@ -2,7 +2,7 @@
  # Welcome!
 
  
-I'm Victor Werneck Gomes.
+I'm Victor!
 
 
 :computer: Análise e Desenvolvimento de Sistemas.
