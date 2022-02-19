@@ -7,7 +7,7 @@
 
 :computer: Análise e Desenvolvimento de Sistemas.
 
-:house_with_garden: Belo Horizonte-MG.
+:house_with_garden: Belo Horizonte-MG - Brazil.
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-werneck-gomes-6014a918a/)](https://www.linkedin.com/in/victor-werneck-gomes-6014a918a/)
 <div style="display inline_block">
