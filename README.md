@@ -2,7 +2,7 @@
  # Welcome
 
  
-:smiley: I'm Victor.
+:smiley: I'm Victor
 
 
 
