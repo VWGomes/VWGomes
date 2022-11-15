@@ -4,7 +4,6 @@
  
 :smiley: I'm Victor!
 
-
 :computer: Análise e Desenvolvimento de Sistemas.
 
 :house_with_garden: Belo Horizonte-MG
